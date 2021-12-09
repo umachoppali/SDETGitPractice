@@ -7,6 +7,7 @@ public class Demo {
 	public void demo() {
 		System.out.println("user 1 added");
 		System.out.println("user 1 is modified");
+		System.out.println("user 2 changed");
 	}
 
 }
