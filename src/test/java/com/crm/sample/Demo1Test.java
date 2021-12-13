@@ -6,6 +6,7 @@ public class Demo1Test {
 	@Test
 	public void DemoTest() {
 		System.out.println("demo is successful");
+		int i=1/0;
 	}
 
 }
